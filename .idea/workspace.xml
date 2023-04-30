@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ae54a2f-5c2f-4510-8627-9d1948b6c80f" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/Папка/Directory/File4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Папка/Directory1/File5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Папка/Directory2/File6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DZ_73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ_73.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Папка/D1/File1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Папка/D2/File2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Папка/D3/File3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +35,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rak15\IdeaProjects\DZ_73\Папка\D3" />
@@ -71,6 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1682702616700</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1682707718349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682707718349</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
