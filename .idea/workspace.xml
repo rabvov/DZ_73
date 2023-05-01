@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ae54a2f-5c2f-4510-8627-9d1948b6c80f" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/Папка/Directory/File4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Папка/Directory1/File5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Папка/Directory2/File6" afterDir="false" />
+    <list default="true" id="1ae54a2f-5c2f-4510-8627-9d1948b6c80f" name="Changes" comment="1.3">
+      <change afterPath="$PROJECT_DIR$/src/Direct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Папка/Directory/5315188/File3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Папка/Directory/File8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DZ_73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ_73.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Папка/Directory/File4" beforeDir="false" afterPath="$PROJECT_DIR$/Папка/Directory/File4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Папка/Directory1/File5" beforeDir="false" afterPath="$PROJECT_DIR$/Папка/Directory1/File5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Папка/Directory2/File6" beforeDir="false" afterPath="$PROJECT_DIR$/Папка/Directory2/File6" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682707718349</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.2">
+      <created>1682837386346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682837386347</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="1.2" />
+    <MESSAGE value="1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.3" />
   </component>
 </project>
