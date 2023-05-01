@@ -7,7 +7,6 @@ public class Direct {
         String d;
        for (File file: Objects.requireNonNull(f.listFiles())){
            if (file.isDirectory()){
-               System.out.print("Это директория: ");
                System.out.printf("Name = %s; Length = %d; Is directory = %b ", file.getName(), file.length(), file.isDirectory());
                System.out.print(": Находиться - "+file.getParentFile()+" /");
                System.out.println(" В ней есть: "+ Arrays.toString(file.list()));
@@ -16,7 +15,6 @@ public class Direct {
                Direct.form(f);
            System.out.println();}
            else {
-               System.out.print("Это файл: ");
                System.out.printf("Name = %s; Length = %d; Is directory = %b ", file.getName(), file.length(), file.isDirectory());
                System.out.println("Находиься в "+file.getParentFile());
                System.out.println();
